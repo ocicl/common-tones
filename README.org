@@ -4,6 +4,6 @@ Sound synthesis library for Common Lisp based on CLM-5
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/theraphonics/common-tones.git |
-| commit  | b90ada8                                              |
+| commit  | 2a3416e                                              |
 | systems | common-tones                                         |
 |---------+------------------------------------------------------|
